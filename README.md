@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/XingHang0921/HelloWorld/blob/master/IMG_193242116.MOV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
+Video created with Apple phone recorder.
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
